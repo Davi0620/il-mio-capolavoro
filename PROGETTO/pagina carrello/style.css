@@ -1,0 +1,28 @@
+button{
+
+    margin: 20px;
+}
+
+.DivProdotto{
+
+    width: 100%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: bisque
+    
+    
+}
+
+fieldset{
+
+    border-radius: 10px;
+    background-color: antiquewhite;
+    display: flex;
+}
+
+html{
+
+    background-color: burlywood;
+}

@@ -1,0 +1,81 @@
+.DivRiga{
+
+    display: flex;
+    background-color:black ;
+    border-radius: 20px;
+    
+}
+
+.DivProdotto{
+
+    width: 100%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: grey;
+    
+    
+}
+
+.bottoniCarrello{
+
+    display: inline-block;
+    width: 100px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #038b59;
+    margin: 20px;
+
+}
+
+.bottoniCarrello:hover {
+    background-color: #3e8e41;
+    box-shadow: 0 9px #2b622d;
+}
+
+.bottoniCarrello:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #2b622d;
+    transform: translateY(4px);
+}
+
+html{
+
+    background-color: darkseagreen;
+}
+
+#ricerca_carrello{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#avanza{
+
+    border-radius: 15px;
+    margin: 5px;
+}
+
+h4{
+
+    display: inline;
+}
+
+h1{
+
+    font-style: italic;
+}
+
+
+
+
+
+
